@@ -1,0 +1,10 @@
+/* div {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+} */
+
+span {
+    display: inline-block;
+    background-color: aquamarine;
+    border: solid 1px black;
+}
