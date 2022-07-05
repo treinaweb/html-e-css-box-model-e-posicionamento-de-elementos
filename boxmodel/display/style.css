@@ -9,6 +9,9 @@ span {
 }
 
 .inline-flex {
-    display: inline-flex;
+    display: block;
 }
 
+p {
+    display: none;
+}
