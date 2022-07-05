@@ -3,8 +3,11 @@
     grid-template-columns: 1fr 1fr 1fr;
 } */
 
-span {
-    display: inline-block;
+.inline span {
+    display: inline;
     background-color: aquamarine;
     border: solid 1px black;
+    width: 200px;
+    height: 500px;
+    margin: 20px;
 }
