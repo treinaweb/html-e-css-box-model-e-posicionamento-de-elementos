@@ -3,11 +3,12 @@
     grid-template-columns: 1fr 1fr 1fr;
 } */
 
-.inline span {
-    display: inline-block;
+span {
     background-color: aquamarine;
     border: solid 1px black;
-    width: 200px;
-    height: 100px;
-    margin: 20px;
 }
+
+.inline-flex {
+    display: inline-flex;
+}
+
