@@ -31,6 +31,12 @@ li {
     left: 30px;
 }
 
+.sticky {
+    background-color: tomato;
+    position: sticky;
+    top: 61px;
+}
+
 .m-bottom {
     margin-bottom: 2000px;
 }
