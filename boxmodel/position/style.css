@@ -1,3 +1,23 @@
 p {
     position: static;
 }
+
+.square {
+    width: 50px;
+    height: 50px;
+    background-color: blueviolet;
+    border: solid 1px black;
+    position: fixed;
+    bottom: 10px;
+    right: 50%;
+}
+
+.container {
+    width: 500px;
+    height: 300px;
+    border: solid 1px black;
+}
+
+.m-bottom {
+    margin-bottom: 2000px;
+}
