@@ -43,6 +43,7 @@ li {
     height: 400px;
     border: solid 2px black;
     background-color: grey;
+    position: relative;
 }
 
 .square {
@@ -51,8 +52,8 @@ li {
     border: solid 2px black;
     background-color: blueviolet;
     position: absolute;
-    bottom: 0;
-    left: 50%;
+    top: -10px;
+    right: 10px;
 }
 
 
