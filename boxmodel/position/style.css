@@ -25,6 +25,12 @@ li {
     margin-top: 70px;
 }
 
+.icone {
+    position: fixed;
+    bottom: 30px;
+    left: 30px;
+}
+
 .m-bottom {
     margin-bottom: 2000px;
 }
